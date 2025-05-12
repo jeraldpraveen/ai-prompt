@@ -1,0 +1,49 @@
+.mt-3 {
+  margin-top: 1rem;
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.px-2 {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.cursor-text {
+  cursor: text;
+}
+
+.tiptap {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  min-height: 50px;
+}
+
+.text-gray-400 {
+  color: #a0aec0;
+}
+
+.input-instructions {
+  color: #666;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  border-color: #007bff;
+  transition: border-color 0.2s;
+  font-size: 12px;
+}
+
+.input-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
